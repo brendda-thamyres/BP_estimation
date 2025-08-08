@@ -1,0 +1,195 @@
+,pid,measurement,sbp,dbp
+0,o000,measurement 23,,
+1,o000,measurement 25,141.0,88.0
+2,o000,measurement 27,139.0,93.0
+3,o000,measurement 35,148.0,108.0
+4,o000,measurement 37,150.0,78.0
+5,o000,measurement 38,144.0,65.0
+6,o000,measurement 39,152.0,71.0
+7,o000,measurement 40,134.0,84.0
+8,o000,measurement 42,124.0,87.0
+9,o000,measurement 43,147.0,100.0
+10,o000,measurement 44,133.0,84.0
+11,o000,measurement 45,137.0,98.0
+12,o000,measurement 46,,
+13,o000,measurement 50,143.0,69.0
+14,o000,measurement 52,101.0,54.0
+15,o000,measurement 53,,
+16,o000,measurement 55,149.0,86.0
+17,o000,measurement 56,,
+18,o000,measurement 59,157.0,85.0
+19,o000,measurement 60,,
+20,o000,measurement 63,143.0,106.0
+21,o000,measurement 64,123.0,95.0
+22,o000,measurement 66,126.0,92.0
+23,o000,measurement 67,121.0,92.0
+24,o000,measurement 71,125.0,95.0
+25,o000,measurement 74,125.0,102.0
+26,o000,measurement 77,133.0,97.0
+27,o000,measurement 80,,
+28,o000,measurement 83,140.0,87.0
+29,o000,measurement 84,142.0,96.0
+30,o000,Cool down 1,129.0,92.0
+31,o000,Cool down 2,139.0,101.0
+32,o000,Running,179.0,100.0
+33,o000,Sitting arm down,138.0,104.0
+34,o000,Sitting arm lap,140.0,92.0
+35,o000,Sitting arm up,138.0,90.0
+36,o000,Standing arm down,134.0,101.0
+37,o000,Standing arm up,139.0,101.0
+38,o000,Supine 1,137.0,96.0
+39,o000,Supine 2,134.0,90.0
+40,o000,Walking,158.0,104.0
+41,o000,Sitting arm down,138.0,104.0
+42,o000,Sitting arm lap,140.0,92.0
+43,o000,Sitting arm up,138.0,90.0
+44,o001,measurement 19,109.0,79.0
+45,o001,measurement 20,104.0,73.0
+46,o001,measurement 21,102.0,74.0
+47,o001,measurement 22,110.0,74.0
+48,o001,measurement 25,141.0,88.0
+49,o001,measurement 26,85.0,61.0
+50,o001,measurement 27,139.0,93.0
+51,o001,measurement 28,,
+52,o001,measurement 29,88.0,58.0
+53,o001,measurement 30,,
+54,o001,measurement 36,100.0,67.0
+55,o001,measurement 39,152.0,71.0
+56,o001,measurement 42,124.0,87.0
+57,o001,measurement 43,147.0,100.0
+58,o001,measurement 44,133.0,84.0
+59,o001,measurement 46,,
+60,o001,measurement 47,109.0,72.0
+61,o001,measurement 48,,
+62,o001,measurement 51,90.0,54.0
+63,o001,measurement 54,110.0,79.0
+64,o001,measurement 63,143.0,106.0
+65,o001,measurement 64,123.0,95.0
+66,o001,measurement 67,121.0,92.0
+67,o001,measurement 70,150.0,110.0
+68,o001,Cool down 1,129.0,92.0
+69,o001,Cool down 2,139.0,101.0
+70,o001,Running,179.0,100.0
+71,o001,Sitting arm down,138.0,104.0
+72,o001,Sitting arm lap,140.0,92.0
+73,o001,Sitting arm up,138.0,90.0
+74,o001,Standing arm down,134.0,101.0
+75,o001,Standing arm up,139.0,101.0
+76,o001,Supine 1,137.0,96.0
+77,o001,Supine 2,134.0,90.0
+78,o001,Walking,158.0,104.0
+79,o001,Sitting arm lap,140.0,92.0
+80,o001,Sitting arm up,138.0,90.0
+81,o002,measurement 21,102.0,74.0
+82,o002,measurement 24,143.0,92.0
+83,o002,measurement 39,152.0,71.0
+84,o002,measurement 44,133.0,84.0
+85,o002,measurement 45,137.0,98.0
+86,o002,measurement 46,,
+87,o003,measurement 18,155.0,101.0
+88,o003,measurement 27,139.0,93.0
+89,o003,measurement 29,88.0,58.0
+90,o003,measurement 30,,
+91,o003,measurement 33,144.0,92.0
+92,o003,measurement 35,148.0,108.0
+93,o003,measurement 37,150.0,78.0
+94,o003,measurement 38,144.0,65.0
+95,o003,measurement 39,152.0,71.0
+96,o003,measurement 40,134.0,84.0
+97,o003,measurement 41,116.0,80.0
+98,o003,measurement 42,124.0,87.0
+99,o003,measurement 43,147.0,100.0
+100,o003,measurement 44,133.0,84.0
+101,o003,measurement 45,137.0,98.0
+102,o003,measurement 46,,
+103,o003,measurement 47,109.0,72.0
+104,o003,measurement 48,,
+105,o003,measurement 49,93.0,60.0
+106,o003,measurement 51,90.0,54.0
+107,o003,measurement 52,101.0,54.0
+108,o003,measurement 53,,
+109,o003,measurement 54,110.0,79.0
+110,o003,measurement 58,144.0,87.0
+111,o003,measurement 59,157.0,85.0
+112,o003,measurement 60,,
+113,o003,measurement 62,145.0,88.0
+114,o003,Cool down 1,129.0,92.0
+115,o003,Running,179.0,100.0
+116,o003,Sitting arm lap,140.0,92.0
+117,o003,Sitting arm up,138.0,90.0
+118,o003,Standing arm up,139.0,101.0
+119,o003,Supine 1,137.0,96.0
+120,o003,Supine 2,134.0,90.0
+121,o003,Sitting arm lap,140.0,92.0
+122,o003,Sitting arm up,138.0,90.0
+123,o004,measurement 34,129.0,82.0
+124,o004,measurement 35,148.0,108.0
+125,o004,measurement 36,100.0,67.0
+126,o004,measurement 37,150.0,78.0
+127,o004,measurement 40,134.0,84.0
+128,o004,measurement 42,124.0,87.0
+129,o004,measurement 43,147.0,100.0
+130,o004,measurement 44,133.0,84.0
+131,o004,measurement 45,137.0,98.0
+132,o004,measurement 46,,
+133,o004,measurement 47,109.0,72.0
+134,o004,measurement 48,,
+135,o004,measurement 49,93.0,60.0
+136,o004,measurement 50,143.0,69.0
+137,o004,measurement 51,90.0,54.0
+138,o004,measurement 52,101.0,54.0
+139,o004,measurement 53,,
+140,o004,measurement 54,110.0,79.0
+141,o004,measurement 55,149.0,86.0
+142,o004,measurement 57,118.0,80.0
+143,o004,measurement 58,144.0,87.0
+144,o004,measurement 60,,
+145,o004,measurement 65,130.0,84.0
+146,o004,measurement 66,126.0,92.0
+147,o004,measurement 70,150.0,110.0
+148,o004,measurement 72,148.0,95.0
+149,o004,measurement 75,125.0,88.0
+150,o004,Supine 1,137.0,96.0
+151,o004,Supine 2,134.0,90.0
+152,o004,Signal check,137.0,92.0
+153,o004,Sitting arm lap,140.0,92.0
+154,o004,Sitting arm up,138.0,90.0
+155,o005,measurement 34,129.0,82.0
+156,o005,measurement 37,150.0,78.0
+157,o005,measurement 38,144.0,65.0
+158,o005,measurement 43,147.0,100.0
+159,o005,measurement 44,133.0,84.0
+160,o005,measurement 46,,
+161,o005,measurement 48,,
+162,o005,measurement 49,93.0,60.0
+163,o005,measurement 50,143.0,69.0
+164,o005,measurement 51,90.0,54.0
+165,o005,measurement 52,101.0,54.0
+166,o005,measurement 53,,
+167,o005,measurement 54,110.0,79.0
+168,o005,measurement 55,149.0,86.0
+169,o005,measurement 56,,
+170,o005,measurement 57,118.0,80.0
+171,o005,measurement 59,157.0,85.0
+172,o005,measurement 60,,
+173,o005,measurement 61,129.0,92.0
+174,o005,measurement 62,145.0,88.0
+175,o005,measurement 67,121.0,92.0
+176,o005,measurement 69,123.0,72.0
+177,o005,measurement 71,125.0,95.0
+178,o005,measurement 74,125.0,102.0
+179,o005,measurement 76,,
+180,o005,measurement 77,133.0,97.0
+181,o005,Cool down 1,129.0,92.0
+182,o005,Cool down 2,139.0,101.0
+183,o005,Running,179.0,100.0
+184,o005,Sitting arm lap,140.0,92.0
+185,o005,Sitting arm up,138.0,90.0
+186,o005,Standing arm down,134.0,101.0
+187,o005,Standing arm up,139.0,101.0
+188,o005,Supine 1,137.0,96.0
+189,o005,Supine 2,134.0,90.0
+190,o005,Walking,158.0,104.0
+191,o005,Signal check,137.0,92.0
+192,o005,Sitting arm lap,140.0,92.0
+193,o005,Sitting arm up,138.0,90.0

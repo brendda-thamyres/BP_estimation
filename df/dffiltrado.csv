@@ -1,0 +1,284 @@
+,pid,measurement,sbp,dbp
+0,o000,measurement 23,,
+1,o000,measurement 25,141.0,88.0
+2,o000,measurement 27,139.0,93.0
+3,o000,measurement 28,,
+4,o000,measurement 30,,
+5,o000,measurement 33,144.0,92.0
+6,o000,measurement 35,148.0,108.0
+7,o000,measurement 37,150.0,78.0
+8,o000,measurement 38,144.0,65.0
+9,o000,measurement 39,152.0,71.0
+10,o000,measurement 40,134.0,84.0
+11,o000,measurement 41,116.0,80.0
+12,o000,measurement 42,124.0,87.0
+13,o000,measurement 43,147.0,100.0
+14,o000,measurement 44,133.0,84.0
+15,o000,measurement 45,137.0,98.0
+16,o000,measurement 46,,
+17,o000,measurement 48,,
+18,o000,measurement 50,143.0,69.0
+19,o000,measurement 52,101.0,54.0
+20,o000,measurement 53,,
+21,o000,measurement 55,149.0,86.0
+22,o000,measurement 56,,
+23,o000,measurement 58,144.0,87.0
+24,o000,measurement 59,157.0,85.0
+25,o000,measurement 60,,
+26,o000,measurement 63,143.0,106.0
+27,o000,measurement 64,123.0,95.0
+28,o000,measurement 66,126.0,92.0
+29,o000,measurement 67,121.0,92.0
+30,o000,measurement 68,127.0,91.0
+31,o000,measurement 70,150.0,110.0
+32,o000,measurement 71,125.0,95.0
+33,o000,measurement 73,154.0,85.0
+34,o000,measurement 74,125.0,102.0
+35,o000,measurement 75,125.0,88.0
+36,o000,measurement 77,133.0,97.0
+37,o000,measurement 79,113.0,92.0
+38,o000,measurement 80,,
+39,o000,measurement 83,140.0,87.0
+40,o000,measurement 84,142.0,96.0
+41,o000,Cool down 1,129.0,92.0
+42,o000,Cool down 2,139.0,101.0
+43,o000,Running,179.0,100.0
+44,o000,Sitting arm down,138.0,104.0
+45,o000,Sitting arm lap,140.0,92.0
+46,o000,Sitting arm up,138.0,90.0
+47,o000,Standing arm down,134.0,101.0
+48,o000,Standing arm up,139.0,101.0
+49,o000,Supine 1,137.0,96.0
+50,o000,Supine 2,134.0,90.0
+51,o000,Walking,158.0,104.0
+52,o000,Signal check,137.0,92.0
+56,o000,Calibration average values,135.5,93.0
+57,o000,Calibration closest values,134.0,90.0
+58,o000,Seated calibration average values,138.0,90.0
+59,o000,Seated calibration closest values,138.0,90.0
+60,o001,measurement 19,109.0,79.0
+61,o001,measurement 20,104.0,73.0
+62,o001,measurement 21,102.0,74.0
+63,o001,measurement 22,110.0,74.0
+64,o001,measurement 23,110.0,74.0
+65,o001,measurement 25,81.0,57.0
+66,o001,measurement 26,85.0,61.0
+67,o001,measurement 27,88.0,58.0
+68,o001,measurement 28,92.0,61.0
+69,o001,measurement 29,88.0,58.0
+70,o001,measurement 30,93.0,59.0
+71,o001,measurement 31,105.0,76.0
+72,o001,measurement 32,105.0,76.0
+73,o001,measurement 36,100.0,67.0
+74,o001,measurement 37,120.0,82.0
+75,o001,measurement 39,109.0,89.0
+76,o001,measurement 40,113.0,77.0
+77,o001,measurement 41,118.0,88.0
+78,o001,measurement 42,100.0,68.0
+79,o001,measurement 43,98.0,62.0
+80,o001,measurement 44,100.0,66.0
+81,o001,measurement 45,107.0,87.0
+82,o001,measurement 46,108.0,65.0
+83,o001,measurement 47,109.0,72.0
+84,o001,measurement 48,79.0,48.0
+85,o001,measurement 49,93.0,60.0
+86,o001,measurement 50,95.0,68.0
+87,o001,measurement 51,90.0,54.0
+88,o001,measurement 52,,
+89,o001,measurement 54,110.0,79.0
+90,o001,measurement 55,125.0,81.0
+91,o001,measurement 56,122.0,78.0
+92,o001,measurement 57,118.0,80.0
+93,o001,measurement 58,,
+94,o001,measurement 63,101.0,74.0
+95,o001,measurement 64,98.0,66.0
+96,o001,measurement 66,100.0,65.0
+97,o001,measurement 67,,
+98,o001,measurement 70,,
+99,o001,Cool down 1,123.0,73.0
+100,o001,Cool down 2,116.0,77.0
+101,o001,Running,148.0,83.0
+102,o001,Sitting arm down,107.0,69.0
+103,o001,Sitting arm lap,99.0,71.0
+104,o001,Sitting arm up,106.0,76.0
+105,o001,Standing arm down,114.0,81.0
+106,o001,Standing arm up,118.0,87.0
+107,o001,Supine 1,102.0,66.0
+108,o001,Supine 2,101.0,68.0
+109,o001,Walking,123.0,77.0
+110,o001,Signal check,115.0,77.0
+114,o001,Calibration average values,101.5,67.0
+115,o001,Calibration closest values,102.0,66.0
+116,o001,Seated calibration average values,106.0,76.0
+117,o001,Seated calibration closest values,106.0,76.0
+118,o003,measurement 18,155.0,101.0
+119,o003,measurement 19,135.0,88.0
+120,o003,measurement 20,129.0,89.0
+121,o003,measurement 21,142.0,92.0
+122,o003,measurement 23,144.0,91.0
+123,o003,measurement 24,143.0,92.0
+124,o003,measurement 25,137.0,81.0
+125,o003,measurement 26,146.0,84.0
+126,o003,measurement 27,129.0,86.0
+127,o003,measurement 28,125.0,87.0
+128,o003,measurement 29,127.0,80.0
+129,o003,measurement 30,121.0,75.0
+130,o003,measurement 31,123.0,75.0
+131,o003,measurement 32,122.0,77.0
+132,o003,measurement 33,125.0,73.0
+133,o003,measurement 34,129.0,82.0
+134,o003,measurement 35,129.0,86.0
+135,o003,measurement 36,132.0,84.0
+136,o003,measurement 37,122.0,76.0
+137,o003,measurement 38,128.0,84.0
+138,o003,measurement 39,125.0,74.0
+139,o003,measurement 40,118.0,73.0
+140,o003,measurement 41,103.0,58.0
+141,o003,measurement 42,107.0,55.0
+142,o003,measurement 43,103.0,59.0
+143,o003,measurement 44,107.0,61.0
+144,o003,measurement 45,120.0,63.0
+145,o003,measurement 46,93.0,51.0
+146,o003,measurement 47,115.0,67.0
+147,o003,measurement 48,101.0,56.0
+148,o003,measurement 49,104.0,67.0
+149,o003,measurement 50,122.0,88.0
+150,o003,measurement 51,115.0,76.0
+151,o003,measurement 52,116.0,75.0
+152,o003,measurement 53,112.0,74.0
+153,o003,measurement 54,112.0,65.0
+154,o003,measurement 56,129.0,87.0
+155,o003,measurement 57,123.0,81.0
+156,o003,measurement 58,126.0,80.0
+157,o003,measurement 59,117.0,79.0
+158,o003,measurement 60,123.0,81.0
+159,o003,measurement 61,129.0,92.0
+160,o003,measurement 62,145.0,88.0
+161,o003,measurement 64,139.0,79.0
+162,o003,measurement 65,130.0,84.0
+163,o003,measurement 66,141.0,88.0
+164,o003,Cool down 1,141.0,86.0
+165,o003,Cool down 2,133.0,87.0
+166,o003,Running,169.0,88.0
+167,o003,Sitting arm down,132.0,92.0
+168,o003,Sitting arm lap,132.0,95.0
+169,o003,Sitting arm up,136.0,91.0
+170,o003,Standing arm down,130.0,87.0
+171,o003,Standing arm up,141.0,94.0
+172,o003,Supine 1,131.0,78.0
+173,o003,Supine 2,131.0,77.0
+174,o003,Walking,154.0,88.0
+175,o003,Signal check,132.0,87.0
+178,o003,Calibration average values,131.0,77.5
+179,o003,Calibration closest values,131.0,78.0
+180,o003,Seated calibration average values,136.0,91.0
+181,o003,Seated calibration closest values,136.0,91.0
+182,o004,measurement 31,145.0,119.0
+183,o004,measurement 33,155.0,104.0
+184,o004,measurement 34,151.0,86.0
+185,o004,measurement 35,127.0,71.0
+186,o004,measurement 36,133.0,77.0
+187,o004,measurement 37,118.0,71.0
+188,o004,measurement 39,139.0,88.0
+189,o004,measurement 40,136.0,78.0
+190,o004,measurement 41,126.0,76.0
+191,o004,measurement 42,127.0,76.0
+192,o004,measurement 43,144.0,89.0
+193,o004,measurement 44,121.0,71.0
+194,o004,measurement 45,110.0,68.0
+195,o004,measurement 46,103.0,62.0
+196,o004,measurement 47,131.0,78.0
+197,o004,measurement 48,128.0,78.0
+198,o004,measurement 49,113.0,78.0
+199,o004,measurement 50,112.0,79.0
+200,o004,measurement 51,97.0,68.0
+201,o004,measurement 52,91.0,52.0
+202,o004,measurement 53,98.0,62.0
+203,o004,measurement 54,107.0,76.0
+204,o004,measurement 55,105.0,65.0
+205,o004,measurement 56,153.0,98.0
+206,o004,measurement 57,151.0,88.0
+207,o004,measurement 58,,
+208,o004,measurement 60,,
+209,o004,measurement 62,,
+210,o004,measurement 64,143.0,86.0
+211,o004,measurement 65,139.0,87.0
+212,o004,measurement 66,140.0,84.0
+213,o004,measurement 70,144.0,95.0
+214,o004,measurement 71,135.0,98.0
+215,o004,measurement 72,148.0,95.0
+216,o004,measurement 74,148.0,93.0
+217,o004,measurement 75,136.0,94.0
+218,o004,measurement 76,,
+219,o004,Cool down 1,162.0,106.0
+220,o004,Cool down 2,159.0,107.0
+221,o004,Running,200.0,98.0
+222,o004,Sitting arm down,151.0,98.0
+223,o004,Sitting arm lap,133.0,102.0
+224,o004,Sitting arm up,145.0,106.0
+225,o004,Standing arm down,147.0,103.0
+226,o004,Standing arm up,160.0,107.0
+227,o004,Supine 1,162.0,100.0
+228,o004,Supine 2,158.0,98.0
+229,o004,Walking,187.0,99.0
+230,o004,Signal check,154.0,101.0
+233,o004,Calibration average values,160.0,99.0
+234,o004,Calibration closest values,158.0,98.0
+235,o004,Seated calibration average values,145.0,106.0
+236,o004,Seated calibration closest values,145.0,106.0
+237,o005,measurement 34,126.0,79.0
+238,o005,measurement 35,125.0,66.0
+239,o005,measurement 36,146.0,79.0
+240,o005,measurement 37,111.0,62.0
+241,o005,measurement 38,107.0,65.0
+242,o005,measurement 39,119.0,79.0
+243,o005,measurement 40,130.0,83.0
+244,o005,measurement 41,141.0,92.0
+245,o005,measurement 42,139.0,75.0
+246,o005,measurement 43,120.0,73.0
+247,o005,measurement 44,119.0,71.0
+248,o005,measurement 45,121.0,75.0
+249,o005,measurement 46,126.0,92.0
+250,o005,measurement 48,124.0,80.0
+251,o005,measurement 49,121.0,75.0
+252,o005,measurement 50,105.0,62.0
+253,o005,measurement 51,102.0,60.0
+254,o005,measurement 52,99.0,57.0
+255,o005,measurement 53,103.0,55.0
+256,o005,measurement 54,103.0,55.0
+257,o005,measurement 55,105.0,59.0
+258,o005,measurement 56,104.0,60.0
+259,o005,measurement 57,113.0,76.0
+260,o005,measurement 58,128.0,81.0
+261,o005,measurement 59,127.0,86.0
+262,o005,measurement 60,136.0,91.0
+263,o005,measurement 61,129.0,85.0
+264,o005,measurement 62,125.0,86.0
+265,o005,measurement 63,129.0,85.0
+266,o005,measurement 64,,
+267,o005,measurement 66,133.0,86.0
+268,o005,measurement 67,,
+269,o005,measurement 69,123.0,72.0
+270,o005,measurement 71,140.0,76.0
+271,o005,measurement 72,154.0,97.0
+272,o005,measurement 73,130.0,85.0
+273,o005,measurement 74,129.0,83.0
+274,o005,measurement 75,141.0,83.0
+275,o005,measurement 76,119.0,86.0
+276,o005,measurement 77,131.0,83.0
+277,o005,Cool down 1,122.0,83.0
+278,o005,Cool down 2,130.0,81.0
+279,o005,Running,126.0,78.0
+280,o005,Sitting arm down,126.0,83.0
+281,o005,Sitting arm lap,114.0,75.0
+282,o005,Sitting arm up,125.0,85.0
+283,o005,Standing arm down,117.0,78.0
+284,o005,Standing arm up,126.0,81.0
+285,o005,Supine 1,115.0,65.0
+286,o005,Supine 2,113.0,67.0
+287,o005,Walking,130.0,87.0
+288,o005,Signal check,122.0,76.0
+291,o005,Calibration average values,114.0,66.0
+292,o005,Calibration closest values,115.0,65.0
+293,o005,Seated calibration average values,125.0,85.0
+294,o005,Seated calibration closest values,125.0,85.0
